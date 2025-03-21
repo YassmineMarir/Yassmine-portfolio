@@ -67,11 +67,11 @@ Au cours de mes diverses expériences, notemment chez Huawei, j’ai analysé de
  🔐 [**Système Sécurisé de Gestion des Données Médicales – Blockchain & IPFS**](https://www.inderscienceonline.com/doi/abs/10.1504/IJEH.2022.122134)
 
 ➡️ Conception d’une architecture sécurisée pour le stockage et le partage de données médicales, s’appuyant sur la **blockchain (Ethereum)**, le protocole **IPFS**, les **smart contracts** et le chiffrement **RSA**.  
-- L’article scientifique publié dans le journal ”International Journal of Electronic Healthcare
+- **L’article scientifique publié** dans le journal ”International Journal of Electronic Healthcare
 
  🚗 [**Développement d’un site de covoiturage – JEE**](https://github.com/YassmineMarir/Site-Covoiturage) 
 
-➡️ D´eveloppement d’une application de covoiturage en JavaEE et MySQL et la cr´eation d’un dashboard synth´etisant les
+➡️ Développement d’une application de covoiturage en JavaEE et MySQL et la création d’un dashboard synthétisant les
 informations les plus importante.
 - Données : Base de données créé et manipulée via MYSQL.
 - Features : Réserver un trajet, Supprimer ou modifier la réservation, Noter le trajet effectué
@@ -88,6 +88,3 @@ informations les plus importante.
 
 Tu veux papoter data, projets ou opportunités ? Let’s connect !
 
----
-
-*« La data, c’est plus qu’un métier, c’est une manière de comprendre le monde. »* 🌍✨
